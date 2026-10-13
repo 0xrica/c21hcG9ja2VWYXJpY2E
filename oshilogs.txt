@@ -12,57 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Varica =====
-[1]Varica      |10:21:14 | 12-10-2026| login OK @gvarica | score=990 rank=6163
-[1]Varica      |10:21:14 | 12-10-2026| serverTime=2026-10-12T10:21:14.000Z local=2026-10-12T10:21:14.088Z
+[1]Varica      |10:11:36 | 13-10-2026| login OK @gvarica | score=1090 rank=5580
+[1]Varica      |10:11:36 | 13-10-2026| serverTime=2026-10-13T10:11:36.000Z local=2026-10-13T10:11:36.751Z
 --> [1]Varica menjalankan: Claim Daily
-[1]Varica      |10:21:14 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Varica menjalankan: Auto All Tasks (9 pending)
-[1]Varica      |10:21:16 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589907359874636
-[1]Varica      |10:21:16 | 12-10-2026| delay 10s...
-[1]Varica      |10:21:29 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589990908687009
-[1]Varica      |10:21:29 | 12-10-2026| delay 10s...
-[1]Varica      |10:21:42 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589993995764675
-[1]Varica      |10:21:42 | 12-10-2026| delay 10s...
-[1]Varica      |10:21:54 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589800806535865
-[1]Varica      |10:21:54 | 12-10-2026| delay 10s...
-[1]Varica      |10:22:05 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Varica      |10:22:05 | 12-10-2026| delay 10s...
-[1]Varica      |10:22:17 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109590175844873324
-[1]Varica      |10:22:17 | 12-10-2026| delay 10s...
-[1]Varica      |10:22:29 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589994426774442
-[1]Varica      |10:22:29 | 12-10-2026| delay 10s...
-[1]Varica      |10:22:42 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109589959924380916
-[1]Varica      |10:22:42 | 12-10-2026| delay 10s...
-[1]Varica      |10:22:53 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Varica      |10:22:53 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Varica      |10:22:55 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/gvarica/status/2109590318386889284
+[1]Varica      |10:11:38 | 13-10-2026| daily: OK +10 poin score=1100
+--> [1]Varica menjalankan: Auto All Tasks (4 pending)
+[1]Varica      |10:11:41 | 13-10-2026| [1/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109949786082379198
+[1]Varica      |10:11:41 | 13-10-2026| delay 10s...
+[1]Varica      |10:11:54 | 13-10-2026| [2/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109949788304495783
+[1]Varica      |10:11:54 | 13-10-2026| delay 10s...
+[1]Varica      |10:12:06 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gvarica/status/2109949768915203148
+[1]Varica      |10:12:06 | 13-10-2026| delay 10s...
+[1]Varica      |10:12:19 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Varica      |10:12:19 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Varica      |10:12:21 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/gvarica/status/2109949912045682389
 --> [1]Varica menjalankan: Watch Anime
-[1]Varica      |10:22:55 | 12-10-2026| watch: semua video sudah completed
+[1]Varica      |10:12:22 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Varica      |10:12:22 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Varica      |10:12:24 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Varica      |10:12:29 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Varica      |10:12:32 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Varica      |10:12:37 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Varica      |10:12:40 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Varica menjalankan: Read Article
-[1]Varica      |10:22:56 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Varica      |10:22:57 | 12-10-2026| mint eligibility: {"userId":"1718022342025379840","youtube":{"url":"https://www.youtube.com/@gvarica","status":"submitted","revision":"98e40e2d-8c25-4252-ada8-715c303a90f1","submittedAt":1791668069,"reviewedAt":1791686
-[1]Varica      |10:22:57 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Varica      |10:12:42 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Varica      |10:12:42 | 13-10-2026| mint eligibility: {"userId":"1718022342025379840","youtube":{"url":"https://www.youtube.com/@gvarica","status":"submitted","revision":"98e40e2d-8c25-4252-ada8-715c303a90f1","submittedAt":1791668069,"reviewedAt":1791686
+[1]Varica      |10:12:42 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Varica menjalankan: Quiz Anime
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Varica      |10:22:57 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Varica      |10:12:43 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Varica menjalankan: Music Missions (realtime, bisa lama!)
-[1]Varica      |10:22:59 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Varica      |10:22:59 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Varica      |10:22:59 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Varica      |10:22:59 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Varica      |10:12:45 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Varica      |10:12:46 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Varica      |10:12:46 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Varica      |10:12:46 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Varica menjalankan: Claim Missions
-[1]Varica      |10:23:00 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Varica      |10:23:00 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Varica      |10:23:00 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Varica      |10:12:47 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Varica      |10:12:47 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Varica      |10:12:47 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Varica menjalankan: Check Eligibility
 
 --- eligibility [1]Varica ---
-  @gvarica | score=990 rank=6163
-  tasks    [##################--] 72/81
+  @gvarica | score=1090 rank=5580
+  tasks    [###################-] 75/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -70,17 +67,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Varica menjalankan: Read Manga
-[1]Varica      |10:23:03 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Varica      |10:12:53 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Varica menjalankan: Get Gift
-[1]Varica      |10:23:03 | 12-10-2026| gift: 0/3 belum diterima
+[1]Varica      |10:12:54 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Varica menjalankan: Setup Profile
-[1]Varica      |10:23:04 | 12-10-2026| profile: bio="https://x.com/gvarica" fav=mony rewardAt=1791687852
-[1]Varica      |10:23:04 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Varica      |10:12:55 | 13-10-2026| profile: bio="https://x.com/gvarica" fav=mony rewardAt=1791687852
+[1]Varica      |10:12:55 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Varica menjalankan: Bind Wallet
-[1]Varica      |10:23:04 | 12-10-2026| wallet: sudah terikat HjwtYNjd96... (solana)
+[1]Varica      |10:12:57 | 13-10-2026| wallet: sudah terikat HjwtYNjd96... (solana)
 
 == RINGKASAN ==
-- Varica: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Varica: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
